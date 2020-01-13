@@ -1,4 +1,4 @@
-# Basketball Analysis Project for NBA 2020 Hackathon
+# Basketball Analysis Project for NBA 2019 Hackathon
 
 <b>2019 NBA Hackathon Basketball Analysis Submission</b>
 
